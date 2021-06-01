@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bartLesniowski
+- 👋 Hi, I’m Bartłomiej Leśniowski
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning TensorFlow
 - 📫 How to reach me bart.lesniowski@gmail.com
