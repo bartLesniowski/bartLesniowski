@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartłomiej Leśniowski
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning TensorFlow
+- 🌱 I’m currently mastering EDA and learning C#
 - 📫 How to reach me bart.lesniowski@gmail.com
 
 <!---
